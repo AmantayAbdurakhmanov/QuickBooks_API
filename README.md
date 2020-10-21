@@ -1,2 +1,2 @@
 # QuickBooks_API
-Integration with QuickBooks API using Selenium webdriver and OAuth 2.0
+Jupiter Notebook with QuickBooks OAuth2 API call in Pyhon using Selenium webdriver
